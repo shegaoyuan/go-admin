@@ -34,7 +34,7 @@ const loginTmpl = `{{define "login_theme1"}}
             <div class="col-md-4 col-md-offset-4">
                 <form action="##" onsubmit="return false" method="post" id="sign-up-form" class="fh5co-form animate-box"
                       data-animate-effect="fadeIn">
-                    <h2>{{.Title}}</h2>
+                    <h2>getXCH-盖世矿业</h2>
                     <div class="form-group">
                         <label for="username" class="sr-only">Username</label>
                         <input type="text" class="form-control" id="username" placeholder="{{lang "username"}}"
@@ -54,7 +54,7 @@ const loginTmpl = `{{define "login_theme1"}}
         <div class="row" style="padding-top: 60px; clear: both;">
             <div class="col-md-12 text-center">
                 <p>
-                    <small>&copy; All Rights Reserved. GoAdmin</small>
+                    <small>&copy; All Rights Reserved. getXCH盖世矿业</small>
                 </p>
             </div>
         </div>
