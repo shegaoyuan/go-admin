@@ -17,7 +17,7 @@ const loginTmpl = `{{define "login_theme1"}}
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>{{.Title}}</title>
+        <title>getXCH-盖世矿业</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="{{link .CdnUrl .UrlPrefix "/assets/login/dist/all.min.css"}}">
@@ -54,7 +54,7 @@ const loginTmpl = `{{define "login_theme1"}}
         <div class="row" style="padding-top: 60px; clear: both;">
             <div class="col-md-12 text-center">
                 <p>
-                    <small>&copy; All Rights Reserved. getXCH盖世矿业</small>
+                    <small>&copy; All Rights Reserved. getXCH-盖世矿业</small>
                 </p>
             </div>
         </div>
